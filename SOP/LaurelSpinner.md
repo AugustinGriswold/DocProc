@@ -1,18 +1,23 @@
 # Laurel Spinner
 
 ## Preflight Checks
+> [!Note]
+>
+> This is a note.
 
-| Utility         | Pressure     |
-|----------------:|--------------|
-| N2              | ~60 psi      |
-| Compressed Air  | ~80 psi      |
-| Vacuum          | 20-25 in. Hg |
+> 
+>| Utility         | Pressure     |
+>|----------------:|--------------|
+>| N2              | ~60 psi      |
+>| Compressed Air  | ~80 psi      |
+>| Vacuum          | 20-25 in. Hg |
 
 Turn on the N2 and vacuum via the lever valves on the lefthand side of the fumehood
 
 ## Operation
 
 The Laurel is mainly controlled via the panel on the righthand side of the tool:
+
 ![picture](LaurelPanel.bmp)
 
 
