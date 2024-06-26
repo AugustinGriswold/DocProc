@@ -1,10 +1,6 @@
 # Laurel Spinner
 
-## Preflight Checks
-> [!Note]
->
-> This is a note.
-
+> [!WARNING] Preflight checks
 > 
 >| Utility         | Pressure     |
 >|----------------:|--------------|
