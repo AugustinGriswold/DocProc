@@ -1,6 +1,6 @@
 # Laurel Spinner
 
-> [!WARNING] Preflight checks
+> [!Warning] Preflight checks
 > 
 >| Utility         | Pressure     |
 >|----------------:|--------------|
