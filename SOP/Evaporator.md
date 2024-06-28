@@ -36,6 +36,6 @@
 
 - Get ~11 lbs liquid Nitrogen from chemstores. This will fill the entire dewar.
 - Pump down the tool with `Pump to Hi-Vac` and fill the funnel ~1/4 full.
-- Every 12 minutes, fill the funnel again. Do this until the ion gauge reaches <2.5 uTorr.
+- Every 12 minutes, fill the funnel again. Do this until the ion gauge reaches <2.5 &mu;Torr.
 - Once at pressure, add another round of nitrogen.
 - 
