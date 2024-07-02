@@ -80,7 +80,8 @@ A good example is during lithography:
 
 Development:
 
-{I swear I'll add a picture latter}
+![picture](Example.png)
+{In the future I may add lightmode and darkmode pictures, but pictures should be designed for journals and thus lightmode.}
 
 </details>
 
@@ -97,8 +98,8 @@ Development:
 
 Development:
 
-{I swear I'll add a picture latter}
-
+![picture](Example.png)
+{In the future I may add lightmode and darkmode pictures, but pictures should be designed for journals and thus lightmode.}
 </details>
 
 12. - [ ] Deposit on the sample
