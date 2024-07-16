@@ -1,2 +1,2 @@
 # DocProc
-A location to store documentation for labprocesses and verisons
+A location to store documentation for labprocesses and versions
